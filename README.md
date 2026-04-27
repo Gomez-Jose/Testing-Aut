@@ -67,7 +67,7 @@ Testing-Aut/
 │   └── test_calculator.py  # Pruebas unitarias
 ├── .github/
 │   └── workflows/
-│       └── ci.yml       # Workflow de GitHub Actions
+│       └── test.yml       # Workflow de GitHub Actions
 ├── requirements.txt     # Dependencias
 ├── .gitignore           # Archivos ignorados
 ├── README.md            # Este archivo
@@ -76,7 +76,7 @@ Testing-Aut/
 
 ## Casos de Prueba
 
-- **Caso exitoso**: Operaciones normales (ej. `add(2, 8) == 10`)
+- **Caso exitoso**: Operaciones normales (ej. `power(2, 3) == 8`)
 - **Caso de error**: Excepciones (ej. división por cero)
 - **Caso borde**: Límites (ej. `power(2, 0) == 1`)
 
