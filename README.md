@@ -92,11 +92,11 @@ Testing-Aut/
 
 1. Luego al realizar un push, por ejemplo, se dispara automáticamente el test. Para verificarlo ir a:
 
-![Vista Workflows] (images/vistaWorflow.png)
+![Vista Workflows](images/vistaWorkflows.png)
 
 2. Por último, verificar el artefacto generado:
 
-![Artefacto Generado] (images/Artefacto.png)
+![Artefacto Generado](images/Artefacto.png)
 
 
 ## Licencia
