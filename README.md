@@ -1,4 +1,4 @@
-# Testing-Aut
+# CI/CD simple para una calculadora
 
 ## Descripción
 
@@ -50,7 +50,7 @@ python -m pytest
 
 Genera reporte HTML:
 ```bash
-pytest --html=report.html --self-contained-html
+python -m pytest --html=report.html --self-contained-html
 ```
 
 Abrí `report.html` en un navegador para ver los resultados detallados.
